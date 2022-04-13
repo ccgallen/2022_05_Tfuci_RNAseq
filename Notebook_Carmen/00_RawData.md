@@ -11,3 +11,26 @@ by Genome Quebec
 
 Data were dowloaded from Nanuq server into /data/RawData/2022/
 Copied to /data/ccallen/2022_05_Tfucif/00_RawData
+
+
+
+
+
+Sample ID	Multiplex Key	Index 1	Index 2
+CA202112	NEBNext_dual_i7_A3-NEBNext_dual_i5_A3	TCGGATTC	TAGTTGCG
+CA202140	NEBNext_dual_i7_A4-NEBNext_dual_i5_A4	CAAGGTAC	GAGATACG
+TF4-1	NEBNext_dual_i7_B3-NEBNext_dual_i5_B3	CTGTACCA	AGTCTGTG
+CA202114	NEBNext_dual_i7_B4-NEBNext_dual_i5_B4	AGACCTTG	GCACGTAA
+TF4	NEBNext_dual_i7_C3-NEBNext_dual_i5_C3	GAGAGTAC	TGCTTCCA
+CA202123	NEBNext_dual_i7_C4-NEBNext_dual_i5_C4	GTCGTTAC	GCTTAGCT
+CA202117	NEBNext_dual_i7_D3-NEBNext_dual_i5_D3	TCTACGCA	GGCTATTG
+TF1-1	NEBNext_dual_i7_E3-NEBNext_dual_i5_E3	GCAATTCC	TGTTCGAG
+CA202143b	NEBNext_dual_i7_F3-NEBNext_dual_i5_F3	CTCAGAAG	AACTTGCC
+CA202128	NEBNext_dual_i7_G3-NEBNext_dual_i5_G3	GTCCTAAG	TGGTAGCT
+CA202134b	NEBNext_dual_i7_H2-NEBNext_dual_i5_H2	GGAAGAGA	TTCTCTCG
+CA202132	NEBNext_dual_i7_H3-NEBNext_dual_i5_H3	GCGTTAGA	GTATGCTG
+
+Adaptor information
+NEBNext_dual
+Read 1 Sequence	AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC
+Read 2 Sequence	AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT
